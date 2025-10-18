@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Roadmap.md = Roadmap.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edifact_Test", "Test\Edifact_Test.csproj", "{C46F1188-108D-AB0B-998A-CEF243C3893D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{C2C87498-3522-4D9C-B819-0C01A6E56418}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2C87498-3522-4D9C-B819-0C01A6E56418}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2C87498-3522-4D9C-B819-0C01A6E56418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C46F1188-108D-AB0B-998A-CEF243C3893D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C46F1188-108D-AB0B-998A-CEF243C3893D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C46F1188-108D-AB0B-998A-CEF243C3893D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C46F1188-108D-AB0B-998A-CEF243C3893D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
