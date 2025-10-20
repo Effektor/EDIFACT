@@ -359,3 +359,6 @@ MigrationBackup/
 # Agent Files
 AGENTS.md
 ROADMAP.md
+
+# NuGet pack output
+out/
